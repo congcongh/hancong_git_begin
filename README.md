@@ -1,1 +1,3 @@
-# hancong_git_begin
+second commit readme
+#hancong_git_begin
+
